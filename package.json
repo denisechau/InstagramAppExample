@@ -1,7 +1,7 @@
 {
   "name": "mywebapp",
   "version": "0.0.1",
-  "author": "Chu Shao",
+  "author": "Denise Chau",
   "scripts": {
     "start": "node app.js"
   },
@@ -17,6 +17,6 @@
     "instagram-node-lib": "*"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.26"
   }  
 }
